@@ -8,6 +8,8 @@ Se utilizó el [repositorio base del challenge](https://github.com/alura-challen
 
 La consigna puede visualizarse haciendo [clic aquí](https://www.aluracursos.com/challenges/oracle-one-java/sprint02-aplicacion-base-de-datos) y la solución es un [archivo ejecutable](https://github.com/zaykkko/one-alurahotel/releases).
 
+Es necesario importar el esquema de base de datos mediante el archivo [database.sql](/database.sql).
+
 <ins>**Aclaración**</ins>: en vez de utilizar MySQL _(como dice la consigna)_, se utilizó [PostgreSQL](https://www.postgresql.org/) como gestor de base de datos.
 
 ## Configurables
