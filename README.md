@@ -1,12 +1,12 @@
 
 # Hotel Alura
-Aplicación de escritorio de gestión de reservas para el Sprint 2 del Challenge ONE.
+Aplicación de escritorio de gestión de reservaciones para el Sprint 2 del Challenge ONE.
 
 Se utilizó el [repositorio base del challenge](https://github.com/alura-challenges/challenge-one-alura-hotel-latam) que ya tenía hecho la UI de la aplicación.
 
 ## Solución del Challenge - Sprint 2 - ONE Java
 
-La consigna puede visualizarse haciendo [clic aquí](https://www.aluracursos.com/challenges/oracle-one-java/sprint02-aplicacion-base-de-datos) y la solución es un [archivo descargable](https://github.com/zaykkko/one-alurahotel/releases).
+La consigna puede visualizarse haciendo [clic aquí](https://www.aluracursos.com/challenges/oracle-one-java/sprint02-aplicacion-base-de-datos) y la solución es un [archivo ejecutable](https://github.com/zaykkko/one-alurahotel/releases).
 
 <ins>**Aclaración**</ins>: en vez de utilizar MySQL _(como dice la consigna)_, se utilizó [PostgreSQL](https://www.postgresql.org/) como gestor de base de datos.
 
